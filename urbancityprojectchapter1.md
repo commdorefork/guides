@@ -2,13 +2,13 @@
 
 ## Poverty and the working poor
 
-Poverty lines are defined in canada as an individual who makes less than $22,133. But poverty need not be only measured in money. There are three times of wealth--support from people, time, and goods. People who have little money, time, and bad goods are the poorest in all these areas. The working poor are some of poorest among us because they are not only poor financially, they use up a lot of the time working as well. Some use their money on the cheapest least nutritious foods, parties, drugs, and distraction in the form of entertainment. In a situation like this, a person has to leverage every available resource to escape this vicious trap. If they are fortunate they have some degree of wealth or support in one of these areas, but without all three it takes more than hard work to escape. Then truely the only good way out is some kind of assistance.
+Poverty lines are defined in Canada as an individual who makes less than $22,133. But poverty need not be only measured in money. There are three kinds of wealth: support from people, time, and goods. People who have little money, time, and low quality goods are the poorest in all these areas. The working poor are some of the poorest among us because they are not only poor financially, they use up a lot of their time working as well. Some use their money on the cheapest least nutritious foods, parties, drugs, and distraction in the form of entertainment. In a situation like this, a person has to leverage every available resource to escape this vicious trap. If they are fortunate they have some degree of wealth or support in one of these areas, but without all three it takes more than hard work to escape. Then truly the only good way out is some kind of assistance.
 
 
 
-in 2018 7% of people in alberta are making minimum wage. That's 1 in 14. In ontario, where it's the worst, it's at 17% which is 1 in 6.[source cbc][1] Working 40 hours a week at 13 dollars an hour that's $27,000 per year. At $11 dollars that's $22880.
+In 2018, 7% of people in Alberta were making minimum wage. That's 1 in 14. In Ontario, the working poor make up 17% of the population, or 1 in 6. That is the highest percentage of working poor in Canada. [source cbc][1] Working 40 hours a week at 13 dollars an hour, a person earns $27,000 per year. At $11 that's an income of $22,880.
 
-4.8M are living in poverty earning less than 22,133 for individuals. That's roughly 1 in 8. One quarter are children, and many of them are the working poor.
+4.8M are living in poverty earning less than $22,133 yearly for individuals. That's roughly 1 in 8. One quarter are children and many of them are the working poor.
 
 In the State of Homelessness in Canada 2016 report, it was estimated that at least 235,000 Canadians experience homelessness in a given year.[source homelesshub][3]
 
